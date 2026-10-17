@@ -29,4 +29,4 @@ For each function, the assessment selects a category and subcategory, describes 
 This is a scenario-based academic exercise completed as group coursework.
 
 ## Assessment Report
-[View the assessment report](REPORT_LINK) 
+[View the assessment report](https://github.com/RazanAlshahrani/nist-csf-smart-campus/blob/main/NIST_CSF_Smart_Campus_Lab_Blank_Table%20copy.pdf) 
